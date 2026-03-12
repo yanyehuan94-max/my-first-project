@@ -6,44 +6,8 @@ p.sample1 img {　
     margin-left: 30px;
 }
 
-.box {　
-    background-color: #332c22;
-    height: 90px;
-    width: 400px;
-    border: 3px solid #998367;
-    margin-left: 450px;
-    margin-top: -300px;
-}
 
-.box2 {　
-    background-color: #e6ddcf;
-    height: 390px;
-    width: 400px;
-    border-left: 3px solid #998367;
-    border-bottom: 3px solid #998367;
-    border-right: 3px solid #998367;
-    margin-left: 450px;
-    margin-top: 0px;
- }
 
-.box3 {　
-    background-color: #332c22;
-    height: 60px;
-    width: 400px;
-    border: 3px solid #998367;
-    margin-left: 0px;
-    margin-top: -200px;
-}
-
-.box4 {　
-    background-color: #e6ddcf;
-    height: 130px;
-    width: 400px;
-    border-left: 3px solid #998367;
-    border-bottom: 3px solid #998367;
-    border-right: 3px solid #998367;
-    margin-left: 0px;
-    margin-top: 0px;
 }
 
 
